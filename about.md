@@ -1,4 +1,4 @@
-# Who are we
+# About us
 
 ## Carlos Hernandez
 ### Pick a title that suits you
