@@ -1,3 +1,6 @@
+# Pricing
+---
+
 | Tier | Description | Price |
 | :----------- | :----------- | -----------: |
 | Base Tier | Provides a essential reports, sumarizing your calls and provides questions to ask the sales team.  | $2500 USD per month |
