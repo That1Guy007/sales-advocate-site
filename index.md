@@ -1,4 +1,4 @@
-# Main Page
+# Home
 
 We are working on developing an AI-driven software solution targeted primarily at large enterprises, aiming to streamline and enhance procurement processes. Specifically, the product acts as an intelligent advocate for customers/prospects during vendor interactions, enabling enterprises to:
 
